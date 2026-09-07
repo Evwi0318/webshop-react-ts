@@ -148,7 +148,7 @@ vite.config.ts.timestamp-*
 Thumbs.db
 
 # Editor
-.idea/
+.idea//
 
 # Vite
 *.local
