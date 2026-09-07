@@ -141,3 +141,19 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+
+# Vite
+*.local
+
+# Lokal databas (om ni kör SQLite)
+*.db
+*.sqlite
+*.sqlite3
